@@ -1,0 +1,25 @@
+Bitget
+
+Phrase secrete:
+
+kakou21Maverick0673
+
+Cle API:
+
+bg_39eeea72270d104212d3676bbee7c8f5
+
+Clé Secrete:
+
+b57cfed2341515eae62d232ae36d65ce001e322176b74266502ce422c2b381b3
+
+Pharse secrete:
+
+Futures|Ordres
+Futures|Avoirs
+Spot|Trader
+Marge|Trader
+Copy Trade|Trader
+Portefeuille|Transfert
+Taxation|Rechercher
+P2P|Rechercher
+Sous-compte|Gérer

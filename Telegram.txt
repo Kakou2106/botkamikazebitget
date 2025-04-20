@@ -1,0 +1,24 @@
+Telegram
+
+https://t.me/BotFather
+
+bot_kamikaze_kakou21_bot
+
+Kakou21Bot
+
+Token
+
+7850068311:AAHVIOWt8YHeElK6hmflVoVf6S_KvsxSzBk
+
+https://t.me/userinfobot
+
+@Kakou2106
+Id: 7601286564
+First: Kakou21
+Lang: fr
+
+{
+  "telegram_token": "7850068311:AAHVIOWt8YHeElK6hmflVoVf6S_KvsxSzBk",
+  "telegram_chat_id": "7601286564"
+}
+
