@@ -1,0 +1,7 @@
+__pycache__/ 
+*.log 
+*.zip 
+.env 
+*.pyc 
+config.json 
+config_telegram.json 
