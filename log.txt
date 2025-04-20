@@ -105,3 +105,59 @@
 2025-04-20 17:43:34.090969 - ✅ Message envoyé avec succès.
 2025-04-20 17:43:34.091858 - ✅ Analyse terminée. En attente 5 minutes...
 
+2025-04-20 18:49:30.486257 - 🟡 Lancement du bot...
+2025-04-20 18:49:30.487468 - 🚀 Démarrage du bot kamikaze.
+2025-04-20 18:49:30.489149 - 🟢 Achat simulé de PEPE pour 10 USDT
+2025-04-20 18:49:30.701936 - ✅ Message envoyé avec succès.
+2025-04-20 18:49:30.703649 - 🟢 Achat simulé de TURBO pour 10 USDT
+2025-04-20 18:49:30.903866 - ✅ Message envoyé avec succès.
+2025-04-20 18:49:30.905183 - 🟢 Achat simulé de DOGE pour 10 USDT
+2025-04-20 18:49:31.032973 - ✅ Message envoyé avec succès.
+2025-04-20 18:49:31.034001 - 🟢 Achat simulé de SHIB pour 10 USDT
+2025-04-20 18:49:31.187681 - ✅ Message envoyé avec succès.
+2025-04-20 18:49:31.189054 - 🔻 Vente automatique simulée de PEPE à perte (>10%)
+2025-04-20 18:49:31.332764 - ✅ Message envoyé avec succès.
+2025-04-20 18:49:31.334036 - ✅ Analyse terminée. En attente 5 minutes...
+
+2025-04-20 18:54:10.117672 - 🟡 Lancement du bot...
+2025-04-20 18:54:10.118928 - 🚀 Démarrage du bot kamikaze.
+2025-04-20 18:54:10.121271 - 🟢 Achat simulé de PEPE pour 10 USDT
+2025-04-20 18:54:10.335991 - ✅ Message envoyé avec succès.
+2025-04-20 18:54:10.337594 - 🟢 Achat simulé de TURBO pour 10 USDT
+2025-04-20 18:54:10.501317 - ✅ Message envoyé avec succès.
+2025-04-20 18:54:10.502529 - 🟢 Achat simulé de DOGE pour 10 USDT
+2025-04-20 18:54:10.642922 - ✅ Message envoyé avec succès.
+2025-04-20 18:54:10.644064 - 🟢 Achat simulé de SHIB pour 10 USDT
+2025-04-20 18:54:10.780510 - ✅ Message envoyé avec succès.
+2025-04-20 18:54:10.782005 - 🔻 Vente automatique simulée de PEPE à perte (>10%)
+2025-04-20 18:54:10.940953 - ✅ Message envoyé avec succès.
+2025-04-20 18:54:10.942413 - ✅ Analyse terminée. En attente 5 minutes...
+
+2025-04-20 19:01:40.033102 - 🟡 Lancement du bot...
+2025-04-20 19:01:40.034252 - 🚀 Démarrage du bot kamikaze.
+2025-04-20 19:01:40.035900 - 🟢 Achat simulé de PEPE pour 10 USDT
+2025-04-20 19:01:40.200440 - ✅ Message envoyé avec succès.
+2025-04-20 19:01:40.201803 - 🟢 Achat simulé de TURBO pour 10 USDT
+2025-04-20 19:01:40.379384 - ✅ Message envoyé avec succès.
+2025-04-20 19:01:40.381301 - 🟢 Achat simulé de DOGE pour 10 USDT
+2025-04-20 19:01:40.541982 - ✅ Message envoyé avec succès.
+2025-04-20 19:01:40.542981 - 🟢 Achat simulé de SHIB pour 10 USDT
+2025-04-20 19:01:40.664069 - ✅ Message envoyé avec succès.
+2025-04-20 19:01:40.665164 - 🔻 Vente automatique simulée de PEPE à perte (>10%)
+2025-04-20 19:01:40.796801 - ✅ Message envoyé avec succès.
+2025-04-20 19:01:40.797857 - ✅ Analyse terminée. En attente 5 minutes...
+
+2025-04-20 19:03:24.577673 - 🟡 Lancement du bot...
+2025-04-20 19:03:24.578858 - 🚀 Démarrage du bot kamikaze.
+2025-04-20 19:03:24.580535 - 🟢 Achat simulé de PEPE pour 10 USDT
+2025-04-20 19:03:24.757385 - ✅ Message envoyé avec succès.
+2025-04-20 19:03:24.758984 - 🟢 Achat simulé de TURBO pour 10 USDT
+2025-04-20 19:03:24.954212 - ✅ Message envoyé avec succès.
+2025-04-20 19:03:24.955181 - 🟢 Achat simulé de DOGE pour 10 USDT
+2025-04-20 19:03:25.148867 - ✅ Message envoyé avec succès.
+2025-04-20 19:03:25.150580 - 🟢 Achat simulé de SHIB pour 10 USDT
+2025-04-20 19:03:25.383275 - ✅ Message envoyé avec succès.
+2025-04-20 19:03:25.384197 - 🔻 Vente automatique simulée de PEPE à perte (>10%)
+2025-04-20 19:03:25.636501 - ✅ Message envoyé avec succès.
+2025-04-20 19:03:25.637978 - ✅ Analyse terminée. En attente 5 minutes...
+

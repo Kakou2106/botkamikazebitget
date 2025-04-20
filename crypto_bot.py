@@ -1,10 +1,11 @@
-
 import json
 import time
 import requests
 from datetime import datetime
 import os
+from flask import Flask
 
+# Fonction pour envoyer un message Telegram
 def send_telegram(message):
     try:
         config = load_config()
@@ -25,7 +26,6 @@ def send_telegram(message):
         log(f"❌ Erreur envoi Telegram : {e}")
 
 
-# Fonction pour écrire dans les logs
 # Fonction pour écrire dans les logs et afficher à l'écran
 def log(msg):
     msg = msg.encode('utf-8', 'replace').decode('utf-8')
@@ -54,33 +54,51 @@ def load_config():
 def get_memecoins():
     return ["PEPE", "TURBO", "DOGE", "SHIB"]
 
+# Logique pour déterminer si on achète un coin
 def should_buy(symbol):
-    return True
+    return True  # Par exemple, on peut ajouter une logique ici pour chaque coin
 
+# Logique pour déterminer si on vend un coin
 def should_sell(entry_price, current_price):
     return ((current_price - entry_price) / entry_price) < -0.10
 
+# Fonction principale du bot
 def main():
     log("🚀 Démarrage du bot kamikaze.")
     config = load_config()
-    usdt_balance = 100
+    usdt_balance = 100  # Solde USDT simulé
     memecoins = get_memecoins()
 
+    # Simuler l'achat de memecoins
     for coin in memecoins:
         if should_buy(coin) and usdt_balance >= 10:
             log(f"🟢 Achat simulé de {coin} pour 10 USDT")
             usdt_balance -= 10
 
+    # Positions détenues simulées
     held_positions = {"PEPE": {"entry": 0.000001, "current": 0.00000085}}
 
+    # Vérification des positions pour vendre
     for symbol, data in held_positions.items():
         if should_sell(data["entry"], data["current"]):
             log(f"🔻 Vente automatique simulée de {symbol} à perte (>10%)")
 
     log("✅ Analyse terminée. En attente 5 minutes...\n")
 
+# Application Flask pour le serveur
+app = Flask(__name__)
+
+@app.route('/')
+def home():
+    return 'Hello, World!'
+
 if __name__ == "__main__":
     log("🟡 Lancement du bot...")
+    
+    # Démarrage du bot toutes les 5 minutes
     while True:
         main()
         time.sleep(300)
+
+    # Lancer le serveur Flask sur le port 10000
+    app.run(host='0.0.0.0', port=10000)
