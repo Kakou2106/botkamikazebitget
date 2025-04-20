@@ -1,7 +1,43 @@
-__pycache__/ 
-*.log 
-*.zip 
-.env 
-*.pyc 
-config.json 
-config_telegram.json 
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+*.zip
+
+# Environnement
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+env/
+
+# Configs personnelles
+*.sqlite3
+.DS_Store
+
+# Éditeurs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Fichiers sensibles (personnalise ici si tu veux garder certains)
+config.json
+config_telegram.json
+*.secret
+*.key
+*.pem
+
+# Flask / FastAPI (optionnel)
+instance/
+*.db
+*.sqlite
+
+# Render (si tu fais un deploy web)
+render.yaml
