@@ -161,3 +161,15 @@
 2025-04-20 19:03:25.636501 - ✅ Message envoyé avec succès.
 2025-04-20 19:03:25.637978 - ✅ Analyse terminée. En attente 5 minutes...
 
+2025-04-21 18:26:57.139654 - 🚀 Démarrage du bot Kamikaze
+2025-04-21 18:26:59.522569 - 📊 Prix actuel PEPE/USDT = 7.91e-06
+2025-04-21 18:26:59.523718 - 🟢 Achat simulé de PEPE/USDT pour 10 USDT
+2025-04-21 18:27:00.538929 - 📊 Prix actuel TURBO/USDT = 0.002324
+2025-04-21 18:27:00.539709 - 🟢 Achat simulé de TURBO/USDT pour 10 USDT
+2025-04-21 18:27:01.639750 - 📊 Prix actuel DOGE/USDT = 0.16024
+2025-04-21 18:27:01.640932 - 🟢 Achat simulé de DOGE/USDT pour 10 USDT
+2025-04-21 18:27:02.642096 - 📊 Prix actuel SHIB/USDT = 1.255e-05
+2025-04-21 18:27:02.642851 - 🟢 Achat simulé de SHIB/USDT pour 10 USDT
+2025-04-21 18:27:03.340665 - 🔻 Vente automatique simulée de PEPE/USDT à perte (>10%)
+2025-04-21 18:27:04.017906 - ✅ Analyse terminée. Reprise dans 5 min...
+
