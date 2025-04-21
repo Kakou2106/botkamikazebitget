@@ -6,6 +6,7 @@ from datetime import datetime
 import os
 from flask import Flask
 from threading import Thread
+from waitress import serve  # Importation de Waitress
 
 # --- Configuration Flask ---
 app = Flask(__name__)
@@ -54,43 +55,61 @@ def init_bitget():
         'secret': config.get("bitget_api_secret")
     })
 
+# --- Fonction pour obtenir le prix d'un token ---
+def obtenir_prix(symbole):
+    try:
+        bitget = init_bitget()
+        ticker = bitget.fetch_ticker(symbole)
+        return ticker["last"]  # Retourne le dernier prix
+    except Exception as e:
+        log(f"❌ Erreur lors de la récupération du prix de {symbole}: {e}")
+        return None
+
+# --- Fonction pour acheter avec USDT ---
+def acheter_avec_usdt(symbole, montant_usdt):
+    try:
+        # Récupérer le prix actuel du token
+        prix_cryptos = obtenir_prix(symbole)
+        if prix_cryptos is None:
+            log(f"❌ Impossible de récupérer le prix de {symbole}.")
+            return
+        
+        # Calculer la quantité à acheter avec le montant en USDT
+        quantite = montant_usdt / prix_cryptos
+        
+        # Créer l'ordre d'achat avec le prix et la quantité
+        bitget = init_bitget()
+        response = bitget.create_market_buy_order(symbol=symbole, amount=montant_usdt)  # Achat en utilisant le montant total en USDT
+        
+        # Vérification de la réponse de l'API
+        if response['status'] == 'success':
+            log(f"🟢 Achat de {montant_usdt} USDT de {symbole} effectué.")
+        else:
+            log(f"❌ Erreur lors de l'achat de {symbole}: {response['message']}")
+    except Exception as e:
+        log(f"❌ Erreur lors de l'achat de {symbole}: {str(e)}")
+
 # --- Stratégie Kamikaze ---
-def get_memecoins():
-    return ["PEPE/USDT", "DOGE/USDT", "SHIB/USDT", "FLOKI/USDT", "HOGE/USDT", "KISHU/USDT"]
+def acheter_memecoins():
+    # Liste des mémecoins à analyser
+    coins = ['PEPE/USDT', 'DOGE/USDT', 'SHIB/USDT', 'FLOKI/USDT']
+    
+    # Montant à investir dans chaque coin (en USDT)
+    montant_par_coin = 2  # 2 USDT par coin
 
-def should_buy(symbol):
-    return True
+    # Boucle pour acheter chaque coin
+    for coin in coins:
+        log(f"📊 Prix actuel {coin} = {obtenir_prix(coin)} USDT")
+        log(f"🟢 Achat réel de {montant_par_coin} USDT de {coin}")
+        acheter_avec_usdt(coin, montant_par_coin)
 
-def should_sell(entry, current):
-    return ((current - entry) / entry) < -0.10
+    log("✅ Analyse terminée. Reprise dans 5 min...")
 
-# --- Fonction principale ---
-def main():
-    log("🚀 Démarrage du bot Kamikaze")
-    config = load_config()
-    bitget = init_bitget()
-    memecoins = get_memecoins()
-
-    for symbol in memecoins:
-        try:
-            ticker = bitget.fetch_ticker(symbol)
-            price = ticker["last"]
-            log(f"📊 Prix actuel {symbol} = {price}")
-            if should_buy(symbol):
-                log(f"🟢 Achat simulé de {symbol} pour 10 USDT")
-        except Exception as e:
-            log(f"❌ Erreur récupération {symbol} : {e}")
-
-    held = {"PEPE/USDT": {"entry": 0.000001, "current": 0.00000085}}
-    for symbol, data in held.items():
-        if should_sell(data["entry"], data["current"]):
-            log(f"🔻 Vente automatique simulée de {symbol} à perte (>10%)")
-
-    log("✅ Analyse terminée. Reprise dans 5 min...\n")
-
-# --- Lancement continu ---
+# --- Lancement du bot avec Waitress (Windows) ---
 if __name__ == "__main__":
-    Thread(target=lambda: app.run(host='0.0.0.0', port=port)).start()
+    log("🚀 Démarrage du serveur Flask avec Waitress")
+    Thread(target=lambda: serve(app, host='0.0.0.0', port=port)).start()  # Utilisation de Waitress pour déployer l'application
     while True:
-        main()
+        acheter_memecoins()  # Exécuter les achats de memecoins
         time.sleep(300)  # 5 minutes
+

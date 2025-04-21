@@ -267,3 +267,234 @@
 2025-04-21 18:58:11.518736 - 🔻 Vente automatique simulée de PEPE/USDT à perte (>10%)
 2025-04-21 18:58:12.237260 - ✅ Analyse terminée. Reprise dans 5 min...
 
+2025-04-21 19:00:26.854007 - 🚀 Démarrage du bot Kamikaze
+2025-04-21 19:00:29.392086 - 📊 Prix actuel PEPE/USDT = 7.75e-06
+2025-04-21 19:00:29.392981 - 🟢 Achat simulé de PEPE/USDT pour 10 USDT
+2025-04-21 19:00:30.455558 - 📊 Prix actuel DOGE/USDT = 0.15735
+2025-04-21 19:00:30.456644 - 🟢 Achat simulé de DOGE/USDT pour 10 USDT
+2025-04-21 19:00:31.467495 - 📊 Prix actuel SHIB/USDT = 1.234e-05
+2025-04-21 19:00:31.468324 - 🟢 Achat simulé de SHIB/USDT pour 10 USDT
+2025-04-21 19:00:32.496115 - 📊 Prix actuel FLOKI/USDT = 5.82e-05
+2025-04-21 19:00:32.497147 - 🟢 Achat simulé de FLOKI/USDT pour 10 USDT
+2025-04-21 19:00:33.253635 - ❌ Erreur récupération HOGE/USDT : bitget does not have market symbol HOGE/USDT
+2025-04-21 19:00:33.255211 - ❌ Erreur récupération KISHU/USDT : bitget does not have market symbol KISHU/USDT
+2025-04-21 19:00:33.256301 - 🔻 Vente automatique simulée de PEPE/USDT à perte (>10%)
+2025-04-21 19:00:34.012720 - ✅ Analyse terminée. Reprise dans 5 min...
+
+2025-04-21 19:03:12.247335 - 🚀 Démarrage du bot Kamikaze
+2025-04-21 19:03:14.814356 - 📊 Prix actuel PEPE/USDT = 7.71e-06
+2025-04-21 19:03:14.815491 - 🟢 Achat simulé de PEPE/USDT pour 10 USDT
+2025-04-21 19:03:15.877387 - 📊 Prix actuel DOGE/USDT = 0.15674
+2025-04-21 19:03:15.878652 - 🟢 Achat simulé de DOGE/USDT pour 10 USDT
+2025-04-21 19:03:16.930032 - 📊 Prix actuel SHIB/USDT = 1.23e-05
+2025-04-21 19:03:16.931409 - 🟢 Achat simulé de SHIB/USDT pour 10 USDT
+2025-04-21 19:03:18.017599 - 📊 Prix actuel FLOKI/USDT = 5.8e-05
+2025-04-21 19:03:18.018869 - 🟢 Achat simulé de FLOKI/USDT pour 10 USDT
+2025-04-21 19:03:18.804239 - ❌ Erreur récupération HOGE/USDT : bitget does not have market symbol HOGE/USDT
+2025-04-21 19:03:18.805746 - ❌ Erreur récupération KISHU/USDT : bitget does not have market symbol KISHU/USDT
+2025-04-21 19:03:18.807059 - 🔻 Vente automatique simulée de PEPE/USDT à perte (>10%)
+2025-04-21 19:03:19.585430 - ✅ Analyse terminée. Reprise dans 5 min...
+
+2025-04-21 19:03:33.074243 - 🚀 Démarrage du bot Kamikaze
+2025-04-21 19:03:35.487570 - 📊 Prix actuel PEPE/USDT = 7.73e-06
+2025-04-21 19:03:35.488521 - 🟢 Achat réel de 1293661.0608020697 PEPE/USDT pour 10 USDT
+2025-04-21 19:03:37.606741 - ❌ Erreur lors de l'achat de PEPE/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:03:37.896081 - 📊 Prix actuel DOGE/USDT = 0.15678
+2025-04-21 19:03:37.897286 - 🟢 Achat réel de 63.78364587319811 DOGE/USDT pour 10 USDT
+2025-04-21 19:03:39.999171 - ❌ Erreur lors de l'achat de DOGE/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:03:40.282393 - 📊 Prix actuel SHIB/USDT = 1.23e-05
+2025-04-21 19:03:40.283309 - 🟢 Achat réel de 813008.1300813007 SHIB/USDT pour 10 USDT
+2025-04-21 19:03:42.350990 - ❌ Erreur lors de l'achat de SHIB/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:03:42.666544 - 📊 Prix actuel FLOKI/USDT = 5.79e-05
+2025-04-21 19:03:42.668010 - 🟢 Achat réel de 172711.57167530226 FLOKI/USDT pour 10 USDT
+2025-04-21 19:03:44.783012 - ❌ Erreur lors de l'achat de FLOKI/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:03:44.796288 - ❌ Erreur récupération HOGE/USDT : bitget does not have market symbol HOGE/USDT
+2025-04-21 19:03:44.797689 - ❌ Erreur récupération KISHU/USDT : bitget does not have market symbol KISHU/USDT
+2025-04-21 19:03:44.798774 - 🔻 Vente automatique simulée de PEPE/USDT à perte (>10%)
+2025-04-21 19:03:45.565438 - ✅ Analyse terminée. Reprise dans 5 min...
+
+2025-04-21 19:08:57.020386 - 🚀 Démarrage du bot Kamikaze
+2025-04-21 19:08:59.377125 - 📊 Prix actuel PEPE/USDT = 7.72e-06
+2025-04-21 19:08:59.378240 - 🟢 Achat réel de 1295336.7875647668 PEPE/USDT pour 10 USDT
+2025-04-21 19:09:01.360355 - ❌ Erreur lors de l'achat de PEPE/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:09:01.659744 - 📊 Prix actuel DOGE/USDT = 0.15655
+2025-04-21 19:09:01.660655 - 🟢 Achat réel de 63.877355477483235 DOGE/USDT pour 10 USDT
+2025-04-21 19:09:03.846812 - ❌ Erreur lors de l'achat de DOGE/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:09:04.142278 - 📊 Prix actuel SHIB/USDT = 1.227e-05
+2025-04-21 19:09:04.143200 - 🟢 Achat réel de 814995.9250203749 SHIB/USDT pour 10 USDT
+2025-04-21 19:09:06.330273 - ❌ Erreur lors de l'achat de SHIB/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:09:06.605618 - 📊 Prix actuel FLOKI/USDT = 5.79e-05
+2025-04-21 19:09:06.608057 - 🟢 Achat réel de 172711.57167530226 FLOKI/USDT pour 10 USDT
+2025-04-21 19:09:08.874721 - ❌ Erreur lors de l'achat de FLOKI/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:09:08.885611 - ❌ Erreur récupération HOGE/USDT : bitget does not have market symbol HOGE/USDT
+2025-04-21 19:09:08.886342 - ❌ Erreur récupération KISHU/USDT : bitget does not have market symbol KISHU/USDT
+2025-04-21 19:09:08.887539 - 🔻 Vente automatique simulée de PEPE/USDT à perte (>10%)
+2025-04-21 19:09:09.554474 - ✅ Analyse terminée. Reprise dans 5 min...
+
+2025-04-21 19:11:10.844074 - 🚀 Démarrage du bot Kamikaze
+2025-04-21 19:11:14.033324 - ❌ Symbole non valide ou indisponible : HOGE/USDT
+2025-04-21 19:11:14.034698 - ❌ Symbole non valide ou indisponible : KISHU/USDT
+2025-04-21 19:11:16.312990 - 📊 Prix actuel PEPE/USDT = 7.73e-06
+2025-04-21 19:11:16.314064 - 🟢 Achat réel de 10 USDT de PEPE/USDT
+2025-04-21 19:11:18.797365 - ❌ Erreur lors de l'achat de PEPE/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:11:19.065874 - 📊 Prix actuel DOGE/USDT = 0.15664
+2025-04-21 19:11:19.066729 - 🟢 Achat réel de 10 USDT de DOGE/USDT
+2025-04-21 19:11:21.462139 - ❌ Erreur lors de l'achat de DOGE/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:11:21.747583 - 📊 Prix actuel SHIB/USDT = 1.229e-05
+2025-04-21 19:11:21.748880 - 🟢 Achat réel de 10 USDT de SHIB/USDT
+2025-04-21 19:11:23.991160 - ❌ Erreur lors de l'achat de SHIB/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:11:24.276734 - 📊 Prix actuel FLOKI/USDT = 5.79e-05
+2025-04-21 19:11:24.277805 - 🟢 Achat réel de 10 USDT de FLOKI/USDT
+2025-04-21 19:11:27.195242 - ❌ Erreur lors de l'achat de FLOKI/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:11:27.205801 - 🔻 Vente automatique simulée de PEPE/USDT à perte (>10%)
+2025-04-21 19:11:27.994797 - ✅ Analyse terminée. Reprise dans 5 min...
+
+2025-04-21 19:12:47.020751 - 🚀 Démarrage du bot Kamikaze
+2025-04-21 19:12:50.222880 - ❌ Symbole non valide ou indisponible : HOGE/USDT
+2025-04-21 19:12:50.224012 - ❌ Symbole non valide ou indisponible : KISHU/USDT
+2025-04-21 19:12:52.501505 - 📊 Prix actuel PEPE/USDT = 7.74e-06
+2025-04-21 19:12:52.502980 - 🟢 Achat réel de 10 USDT de PEPE/USDT
+2025-04-21 19:12:54.821979 - ❌ Erreur lors de l'achat de PEPE/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:12:55.122356 - 📊 Prix actuel DOGE/USDT = 0.15716
+2025-04-21 19:12:55.123572 - 🟢 Achat réel de 10 USDT de DOGE/USDT
+2025-04-21 19:12:57.464598 - ❌ Erreur lors de l'achat de DOGE/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:12:57.758500 - 📊 Prix actuel SHIB/USDT = 1.232e-05
+2025-04-21 19:12:57.759330 - 🟢 Achat réel de 10 USDT de SHIB/USDT
+2025-04-21 19:13:00.076741 - ❌ Erreur lors de l'achat de SHIB/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:13:00.361274 - 📊 Prix actuel FLOKI/USDT = 5.82e-05
+2025-04-21 19:13:00.362617 - 🟢 Achat réel de 10 USDT de FLOKI/USDT
+2025-04-21 19:13:02.700088 - ❌ Erreur lors de l'achat de FLOKI/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:13:02.711229 - 🔻 Vente automatique simulée de PEPE/USDT à perte (>10%)
+2025-04-21 19:13:03.406711 - ✅ Analyse terminée. Reprise dans 5 min...
+
+2025-04-21 19:14:25.971432 - 🚀 Démarrage du bot Kamikaze
+2025-04-21 19:14:31.521429 - 📊 Prix actuel PEPE/USDT = 7.75e-06
+2025-04-21 19:14:31.522651 - 🟢 Achat réel de 10 USDT de PEPE/USDT
+2025-04-21 19:14:33.774539 - ❌ Erreur lors de l'achat de PEPE/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:14:34.069318 - 📊 Prix actuel DOGE/USDT = 0.15707
+2025-04-21 19:14:34.070718 - 🟢 Achat réel de 10 USDT de DOGE/USDT
+2025-04-21 19:14:36.400998 - ❌ Erreur lors de l'achat de DOGE/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:14:36.702175 - 📊 Prix actuel SHIB/USDT = 1.231e-05
+2025-04-21 19:14:36.703614 - 🟢 Achat réel de 10 USDT de SHIB/USDT
+2025-04-21 19:14:38.957158 - ❌ Erreur lors de l'achat de SHIB/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:14:39.251972 - 📊 Prix actuel FLOKI/USDT = 5.8e-05
+2025-04-21 19:14:39.253181 - 🟢 Achat réel de 10 USDT de FLOKI/USDT
+2025-04-21 19:14:41.584915 - ❌ Erreur lors de l'achat de FLOKI/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:14:41.595738 - 🔻 Vente automatique simulée de PEPE/USDT à perte (>10%)
+2025-04-21 19:14:42.292790 - ✅ Analyse terminée. Reprise dans 5 min...
+
+2025-04-21 19:16:58.542187 - 🚀 Démarrage du bot Kamikaze
+2025-04-21 19:17:04.267614 - 📊 Prix actuel PEPE/USDT = 7.73e-06
+2025-04-21 19:17:04.268457 - 🟢 Achat réel de 10 USDT de PEPE/USDT
+2025-04-21 19:17:06.651606 - ❌ Erreur lors de l'achat de PEPE/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:17:06.939999 - 📊 Prix actuel DOGE/USDT = 0.15698
+2025-04-21 19:17:06.940932 - 🟢 Achat réel de 10 USDT de DOGE/USDT
+2025-04-21 19:17:09.308172 - ❌ Erreur lors de l'achat de DOGE/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:17:09.618528 - 📊 Prix actuel SHIB/USDT = 1.23e-05
+2025-04-21 19:17:09.619990 - 🟢 Achat réel de 10 USDT de SHIB/USDT
+2025-04-21 19:17:11.953108 - ❌ Erreur lors de l'achat de SHIB/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:17:12.257155 - 📊 Prix actuel FLOKI/USDT = 5.81e-05
+2025-04-21 19:17:12.257945 - 🟢 Achat réel de 10 USDT de FLOKI/USDT
+2025-04-21 19:17:14.559936 - ❌ Erreur lors de l'achat de FLOKI/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:17:14.571938 - 🔻 Vente automatique simulée de PEPE/USDT à perte (>10%)
+2025-04-21 19:17:15.239332 - ✅ Analyse terminée. Reprise dans 5 min...
+
+2025-04-21 19:19:23.185791 - 🚀 Démarrage du bot Kamikaze
+2025-04-21 19:19:28.650220 - 📊 Prix actuel PEPE/USDT = 7.77e-06
+2025-04-21 19:19:28.651572 - 🟢 Achat réel de 10 USDT de PEPE/USDT
+2025-04-21 19:19:30.981669 - ❌ Erreur lors de l'achat de PEPE/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:19:31.276879 - 📊 Prix actuel DOGE/USDT = 0.15797
+2025-04-21 19:19:31.277682 - 🟢 Achat réel de 10 USDT de DOGE/USDT
+2025-04-21 19:19:33.568779 - ❌ Erreur lors de l'achat de DOGE/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:19:33.846803 - 📊 Prix actuel SHIB/USDT = 1.234e-05
+2025-04-21 19:19:33.848014 - 🟢 Achat réel de 10 USDT de SHIB/USDT
+2025-04-21 19:19:36.165982 - ❌ Erreur lors de l'achat de SHIB/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:19:36.459658 - 📊 Prix actuel FLOKI/USDT = 5.84e-05
+2025-04-21 19:19:36.460892 - 🟢 Achat réel de 10 USDT de FLOKI/USDT
+2025-04-21 19:19:38.866733 - ❌ Erreur lors de l'achat de FLOKI/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:19:38.878993 - 🔻 Vente automatique simulée de PEPE/USDT à perte (>10%)
+2025-04-21 19:19:39.547378 - ✅ Analyse terminée. Reprise dans 5 min...
+
+2025-04-21 19:22:17.729452 - 🚀 Démarrage du bot Kamikaze
+2025-04-21 19:22:21.041823 - 🔹 Répartition de l'USDT : 2.5 USDT par coin
+2025-04-21 19:22:23.351050 - 📊 Prix actuel PEPE/USDT = 7.77e-06
+2025-04-21 19:22:23.351876 - 🟢 Achat réel de 2.5 USDT de PEPE/USDT
+2025-04-21 19:22:25.788471 - ❌ Erreur lors de l'achat de PEPE/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:22:26.065139 - 📊 Prix actuel DOGE/USDT = 0.15761
+2025-04-21 19:22:26.065982 - 🟢 Achat réel de 2.5 USDT de DOGE/USDT
+2025-04-21 19:22:28.398223 - ❌ Erreur lors de l'achat de DOGE/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:22:28.737469 - 📊 Prix actuel SHIB/USDT = 1.233e-05
+2025-04-21 19:22:28.738280 - 🟢 Achat réel de 2.5 USDT de SHIB/USDT
+2025-04-21 19:22:31.009560 - ❌ Erreur lors de l'achat de SHIB/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:22:31.297494 - 📊 Prix actuel FLOKI/USDT = 5.83e-05
+2025-04-21 19:22:31.298351 - 🟢 Achat réel de 2.5 USDT de FLOKI/USDT
+2025-04-21 19:22:33.785924 - ❌ Erreur lors de l'achat de FLOKI/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:22:33.799390 - 🔻 Vente automatique simulée de PEPE/USDT à perte (>10%)
+2025-04-21 19:22:34.446347 - ✅ Analyse terminée. Reprise dans 5 min...
+
+2025-04-21 19:24:04.817469 - 🚀 Démarrage du bot Kamikaze
+2025-04-21 19:24:08.069366 - 🔹 Répartition de l'USDT : 2 USDT par coin
+2025-04-21 19:24:10.407970 - 📊 Prix actuel PEPE/USDT = 7.77e-06
+2025-04-21 19:24:10.409210 - 🟢 Achat réel de 2 USDT de PEPE/USDT
+2025-04-21 19:24:12.752388 - 📊 Prix actuel PEPE/USDT = 7.77e-06 USDT
+2025-04-21 19:24:12.754072 - ❌ Erreur lors de l'achat de PEPE/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:24:13.048795 - 📊 Prix actuel DOGE/USDT = 0.15743
+2025-04-21 19:24:13.049597 - 🟢 Achat réel de 2 USDT de DOGE/USDT
+2025-04-21 19:24:15.339551 - 📊 Prix actuel DOGE/USDT = 0.15743 USDT
+2025-04-21 19:24:15.340454 - ❌ Erreur lors de l'achat de DOGE/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:24:15.628350 - 📊 Prix actuel SHIB/USDT = 1.232e-05
+2025-04-21 19:24:15.629155 - 🟢 Achat réel de 2 USDT de SHIB/USDT
+2025-04-21 19:24:17.999509 - 📊 Prix actuel SHIB/USDT = 1.231e-05 USDT
+2025-04-21 19:24:18.000437 - ❌ Erreur lors de l'achat de SHIB/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:24:18.384786 - 📊 Prix actuel FLOKI/USDT = 5.82e-05
+2025-04-21 19:24:18.385613 - 🟢 Achat réel de 2 USDT de FLOKI/USDT
+2025-04-21 19:24:20.750232 - 📊 Prix actuel FLOKI/USDT = 5.82e-05 USDT
+2025-04-21 19:24:20.752252 - ❌ Erreur lors de l'achat de FLOKI/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:24:20.765094 - 🔻 Vente automatique simulée de PEPE/USDT à perte (>10%)
+2025-04-21 19:24:21.416332 - ✅ Analyse terminée. Reprise dans 5 min...
+
+2025-04-21 19:26:19.997938 - 🚀 Démarrage du bot Kamikaze
+2025-04-21 19:26:23.162383 - 🔹 Répartition de l'USDT : 2 USDT par coin
+2025-04-21 19:26:25.455878 - 📊 Prix actuel PEPE/USDT = 7.79e-06
+2025-04-21 19:26:25.457755 - 🟢 Achat réel de 2 USDT de PEPE/USDT
+2025-04-21 19:26:27.908208 - ❌ Erreur lors de l'achat de PEPE/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:26:28.203162 - 📊 Prix actuel DOGE/USDT = 0.15779
+2025-04-21 19:26:28.204953 - 🟢 Achat réel de 2 USDT de DOGE/USDT
+2025-04-21 19:26:30.571597 - ❌ Erreur lors de l'achat de DOGE/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:26:30.891431 - 📊 Prix actuel SHIB/USDT = 1.234e-05
+2025-04-21 19:26:30.892197 - 🟢 Achat réel de 2 USDT de SHIB/USDT
+2025-04-21 19:26:33.251286 - ❌ Erreur lors de l'achat de SHIB/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:26:33.545207 - 📊 Prix actuel FLOKI/USDT = 5.85e-05
+2025-04-21 19:26:33.546053 - 🟢 Achat réel de 2 USDT de FLOKI/USDT
+2025-04-21 19:26:35.850789 - ❌ Erreur lors de l'achat de FLOKI/USDT : bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:26:35.862002 - 🔻 Vente automatique simulée de PEPE/USDT à perte (>10%)
+2025-04-21 19:26:36.512669 - ✅ Analyse terminée. Reprise dans 5 min...
+
+2025-04-21 19:32:20.304720 - 🚀 Démarrage du serveur Flask avec Waitress
+2025-04-21 19:32:22.775450 - 📊 Prix actuel PEPE/USDT = 7.8e-06 USDT
+2025-04-21 19:32:22.776389 - 🟢 Achat réel de 2 USDT de PEPE/USDT
+2025-04-21 19:32:27.161544 - ❌ Erreur lors de l'achat de PEPE/USDT: bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:32:29.469493 - 📊 Prix actuel DOGE/USDT = 0.15787 USDT
+2025-04-21 19:32:29.470563 - 🟢 Achat réel de 2 USDT de DOGE/USDT
+2025-04-21 19:32:33.780029 - ❌ Erreur lors de l'achat de DOGE/USDT: bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:32:36.116960 - 📊 Prix actuel SHIB/USDT = 1.234e-05 USDT
+2025-04-21 19:32:36.117901 - 🟢 Achat réel de 2 USDT de SHIB/USDT
+2025-04-21 19:32:40.681554 - ❌ Erreur lors de l'achat de SHIB/USDT: bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:32:43.038399 - 📊 Prix actuel FLOKI/USDT = 5.85e-05 USDT
+2025-04-21 19:32:43.039513 - 🟢 Achat réel de 2 USDT de FLOKI/USDT
+2025-04-21 19:32:47.426863 - ❌ Erreur lors de l'achat de FLOKI/USDT: bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:32:47.439564 - ✅ Analyse terminée. Reprise dans 5 min...
+2025-04-21 19:34:25.251632 - 🚀 Démarrage du serveur Flask avec Waitress
+2025-04-21 19:34:27.757818 - 📊 Prix actuel PEPE/USDT = 7.78e-06 USDT
+2025-04-21 19:34:27.758614 - 🟢 Achat réel de 2 USDT de PEPE/USDT
+2025-04-21 19:34:32.099561 - ❌ Erreur lors de l'achat de PEPE/USDT: bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:34:34.442551 - 📊 Prix actuel DOGE/USDT = 0.15748 USDT
+2025-04-21 19:34:34.443650 - 🟢 Achat réel de 2 USDT de DOGE/USDT
+2025-04-21 19:34:39.537935 - ❌ Erreur lors de l'achat de DOGE/USDT: bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:34:41.849211 - 📊 Prix actuel SHIB/USDT = 1.231e-05 USDT
+2025-04-21 19:34:41.850161 - 🟢 Achat réel de 2 USDT de SHIB/USDT
+2025-04-21 19:34:46.929640 - ❌ Erreur lors de l'achat de SHIB/USDT: bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:34:49.247026 - 📊 Prix actuel FLOKI/USDT = 5.84e-05 USDT
+2025-04-21 19:34:49.247858 - 🟢 Achat réel de 2 USDT de FLOKI/USDT
+2025-04-21 19:34:53.686543 - ❌ Erreur lors de l'achat de FLOKI/USDT: bitget createOrder() requires price argument for market buy orders on spot markets to calculate the total amount to spend(amount * price), alternatively set the createMarketBuyOrderRequiresPrice option to False and pass in the cost to spend into the amount parameter
+2025-04-21 19:34:53.706380 - ✅ Analyse terminée. Reprise dans 5 min...
