@@ -173,3 +173,97 @@
 2025-04-21 18:27:03.340665 - 🔻 Vente automatique simulée de PEPE/USDT à perte (>10%)
 2025-04-21 18:27:04.017906 - ✅ Analyse terminée. Reprise dans 5 min...
 
+2025-04-21 18:42:38.871561 - 🚀 Démarrage du bot Kamikaze
+2025-04-21 18:42:41.144184 - ❌ Erreur récupération MEME/USDT : bitget does not have market symbol MEME/USDT
+2025-04-21 18:42:41.424102 - 📊 Prix actuel PEPE/USDT = 7.86e-06
+2025-04-21 18:42:41.425281 - 🟢 Achat simulé de PEPE/USDT pour 10 USDT
+2025-04-21 18:42:42.551081 - 📊 Prix actuel DOGE/USDT = 0.15974
+2025-04-21 18:42:42.551936 - 🟢 Achat simulé de DOGE/USDT pour 10 USDT
+2025-04-21 18:42:43.235994 - ❌ Erreur récupération IA16Z/USDT : bitget does not have market symbol IA16Z/USDT
+2025-04-21 18:42:43.236901 - ❌ Erreur récupération SOLAXY/USDT : bitget does not have market symbol SOLAXY/USDT
+2025-04-21 18:42:43.517444 - 📊 Prix actuel OM/USDT = 0.5689
+2025-04-21 18:42:43.518671 - 🟢 Achat simulé de OM/USDT pour 10 USDT
+2025-04-21 18:42:44.372218 - ❌ Erreur récupération MANTRA/USDT : bitget does not have market symbol MANTRA/USDT
+2025-04-21 18:42:44.373146 - ❌ Erreur récupération PARCL/USDT : bitget does not have market symbol PARCL/USDT
+2025-04-21 18:42:44.659798 - 📊 Prix actuel FET/USDT = 0.63
+2025-04-21 18:42:44.661271 - 🟢 Achat simulé de FET/USDT pour 10 USDT
+2025-04-21 18:42:45.331825 - ❌ Erreur récupération RNDR/USDT : bitget does not have market symbol RNDR/USDT
+2025-04-21 18:42:45.628568 - 📊 Prix actuel GRT/USDT = 0.0846
+2025-04-21 18:42:45.630014 - 🟢 Achat simulé de GRT/USDT pour 10 USDT
+2025-04-21 18:42:46.612158 - 📊 Prix actuel ILV/USDT = 13.71
+2025-04-21 18:42:46.613482 - 🟢 Achat simulé de ILV/USDT pour 10 USDT
+2025-04-21 18:42:47.577460 - 📊 Prix actuel PIXEL/USDT = 0.0498
+2025-04-21 18:42:47.578455 - 🟢 Achat simulé de PIXEL/USDT pour 10 USDT
+2025-04-21 18:42:48.276571 - 🔻 Vente automatique simulée de PEPE/USDT à perte (>10%)
+2025-04-21 18:42:48.976285 - ✅ Analyse terminée. Reprise dans 5 min...
+
+2025-04-21 18:47:19.084802 - 🚀 Démarrage du bot Kamikaze
+2025-04-21 18:47:21.532590 - 📊 Prix actuel PEPE/USDT = 7.85e-06
+2025-04-21 18:47:21.533395 - 🟢 Achat simulé de PEPE/USDT pour 10 USDT
+2025-04-21 18:47:22.600230 - 📊 Prix actuel DOGE/USDT = 0.15932
+2025-04-21 18:47:22.601434 - 🟢 Achat simulé de DOGE/USDT pour 10 USDT
+2025-04-21 18:47:23.614192 - 📊 Prix actuel SHIB/USDT = 1.245e-05
+2025-04-21 18:47:23.615049 - 🟢 Achat simulé de SHIB/USDT pour 10 USDT
+2025-04-21 18:47:24.676320 - 📊 Prix actuel FLOKI/USDT = 5.89e-05
+2025-04-21 18:47:24.677339 - 🟢 Achat simulé de FLOKI/USDT pour 10 USDT
+2025-04-21 18:47:25.411882 - ❌ Erreur récupération HOGE/USDT : bitget does not have market symbol HOGE/USDT
+2025-04-21 18:47:25.412734 - ❌ Erreur récupération KISHU/USDT : bitget does not have market symbol KISHU/USDT
+2025-04-21 18:47:25.413550 - 🔻 Vente automatique simulée de PEPE/USDT à perte (>10%)
+2025-04-21 18:47:26.137725 - ✅ Analyse terminée. Reprise dans 5 min...
+
+2025-04-21 18:49:56.923262 - 🚀 Démarrage du bot Kamikaze
+2025-04-21 18:49:59.319441 - 📊 Prix actuel PEPE/USDT = 7.85e-06
+2025-04-21 18:49:59.320361 - 🟢 Achat simulé de PEPE/USDT pour 10 USDT
+2025-04-21 18:50:00.439223 - 📊 Prix actuel DOGE/USDT = 0.15955
+2025-04-21 18:50:00.440082 - 🟢 Achat simulé de DOGE/USDT pour 10 USDT
+2025-04-21 18:50:01.498232 - 📊 Prix actuel SHIB/USDT = 1.248e-05
+2025-04-21 18:50:01.499317 - 🟢 Achat simulé de SHIB/USDT pour 10 USDT
+2025-04-21 18:50:02.591230 - 📊 Prix actuel FLOKI/USDT = 5.9e-05
+2025-04-21 18:50:02.592420 - 🟢 Achat simulé de FLOKI/USDT pour 10 USDT
+2025-04-21 18:50:03.418871 - ❌ Erreur récupération HOGE/USDT : bitget does not have market symbol HOGE/USDT
+2025-04-21 18:50:03.419904 - ❌ Erreur récupération KISHU/USDT : bitget does not have market symbol KISHU/USDT
+2025-04-21 18:50:03.420855 - 🔻 Vente automatique simulée de PEPE/USDT à perte (>10%)
+2025-04-21 18:50:04.376568 - ✅ Analyse terminée. Reprise dans 5 min...
+
+2025-04-21 18:52:58.305387 - 🚀 Démarrage du bot Kamikaze
+2025-04-21 18:53:00.861684 - 📊 Prix actuel PEPE/USDT = 7.83e-06
+2025-04-21 18:53:00.862572 - 🟢 Achat simulé de PEPE/USDT pour 10 USDT
+2025-04-21 18:53:01.909505 - 📊 Prix actuel DOGE/USDT = 0.15924
+2025-04-21 18:53:01.910365 - 🟢 Achat simulé de DOGE/USDT pour 10 USDT
+2025-04-21 18:53:02.870859 - 📊 Prix actuel SHIB/USDT = 1.245e-05
+2025-04-21 18:53:02.871647 - 🟢 Achat simulé de SHIB/USDT pour 10 USDT
+2025-04-21 18:53:03.814863 - 📊 Prix actuel FLOKI/USDT = 5.9e-05
+2025-04-21 18:53:03.815757 - 🟢 Achat simulé de FLOKI/USDT pour 10 USDT
+2025-04-21 18:53:04.622558 - ❌ Erreur récupération HOGE/USDT : bitget does not have market symbol HOGE/USDT
+2025-04-21 18:53:04.623504 - ❌ Erreur récupération KISHU/USDT : bitget does not have market symbol KISHU/USDT
+2025-04-21 18:53:04.624415 - 🔻 Vente automatique simulée de PEPE/USDT à perte (>10%)
+2025-04-21 18:53:05.378595 - ✅ Analyse terminée. Reprise dans 5 min...
+
+2025-04-21 18:55:20.126702 - 🚀 Démarrage du bot Kamikaze
+2025-04-21 18:55:22.440688 - 📊 Prix actuel PEPE/USDT = 7.79e-06
+2025-04-21 18:55:22.441482 - 🟢 Achat simulé de PEPE/USDT pour 10 USDT
+2025-04-21 18:55:23.419732 - 📊 Prix actuel DOGE/USDT = 0.15857
+2025-04-21 18:55:23.420542 - 🟢 Achat simulé de DOGE/USDT pour 10 USDT
+2025-04-21 18:55:24.323691 - 📊 Prix actuel SHIB/USDT = 1.24e-05
+2025-04-21 18:55:24.324402 - 🟢 Achat simulé de SHIB/USDT pour 10 USDT
+2025-04-21 18:55:25.338476 - 📊 Prix actuel FLOKI/USDT = 5.87e-05
+2025-04-21 18:55:25.339217 - 🟢 Achat simulé de FLOKI/USDT pour 10 USDT
+2025-04-21 18:55:26.004081 - ❌ Erreur récupération HOGE/USDT : bitget does not have market symbol HOGE/USDT
+2025-04-21 18:55:26.004897 - ❌ Erreur récupération KISHU/USDT : bitget does not have market symbol KISHU/USDT
+2025-04-21 18:55:26.005654 - 🔻 Vente automatique simulée de PEPE/USDT à perte (>10%)
+2025-04-21 18:55:26.843460 - ✅ Analyse terminée. Reprise dans 5 min...
+
+2025-04-21 18:58:05.390907 - 🚀 Démarrage du bot Kamikaze
+2025-04-21 18:58:07.797256 - 📊 Prix actuel PEPE/USDT = 7.78e-06
+2025-04-21 18:58:07.798823 - 🟢 Achat simulé de PEPE/USDT pour 10 USDT
+2025-04-21 18:58:08.817761 - 📊 Prix actuel DOGE/USDT = 0.15812
+2025-04-21 18:58:08.818644 - 🟢 Achat simulé de DOGE/USDT pour 10 USDT
+2025-04-21 18:58:09.811417 - 📊 Prix actuel SHIB/USDT = 1.237e-05
+2025-04-21 18:58:09.812243 - 🟢 Achat simulé de SHIB/USDT pour 10 USDT
+2025-04-21 18:58:10.817157 - 📊 Prix actuel FLOKI/USDT = 5.85e-05
+2025-04-21 18:58:10.818508 - 🟢 Achat simulé de FLOKI/USDT pour 10 USDT
+2025-04-21 18:58:11.514231 - ❌ Erreur récupération HOGE/USDT : bitget does not have market symbol HOGE/USDT
+2025-04-21 18:58:11.515600 - ❌ Erreur récupération KISHU/USDT : bitget does not have market symbol KISHU/USDT
+2025-04-21 18:58:11.518736 - 🔻 Vente automatique simulée de PEPE/USDT à perte (>10%)
+2025-04-21 18:58:12.237260 - ✅ Analyse terminée. Reprise dans 5 min...
+

@@ -56,13 +56,13 @@ def init_bitget():
 
 # --- Stratégie Kamikaze ---
 def get_memecoins():
-    return ["PEPE/USDT", "TURBO/USDT", "DOGE/USDT", "SHIB/USDT"]
+    return ["PEPE/USDT", "DOGE/USDT", "SHIB/USDT", "FLOKI/USDT", "HOGE/USDT", "KISHU/USDT"]
 
 def should_buy(symbol):
-    return True  # Simple logique d'achat, à améliorer selon ta stratégie (ex: prix en tendance haussière)
+    return True
 
 def should_sell(entry, current):
-    return ((current - entry) / entry) < -0.10  # Vente si perte > 10%
+    return ((current - entry) / entry) < -0.10
 
 # --- Fonction principale ---
 def main():
@@ -78,19 +78,17 @@ def main():
             log(f"📊 Prix actuel {symbol} = {price}")
             if should_buy(symbol):
                 log(f"🟢 Achat simulé de {symbol} pour 10 USDT")
-                # Simulation d'achat pour 10 USDT (ajoute la logique d'achat réel ici si tu veux)
         except Exception as e:
             log(f"❌ Erreur récupération {symbol} : {e}")
 
-    # Simulation de vente kamikaze
-    held = {"PEPE/USDT": {"entry": 0.000001, "current": 0.00000085}}  # Exemple de coin détenu
+    held = {"PEPE/USDT": {"entry": 0.000001, "current": 0.00000085}}
     for symbol, data in held.items():
         if should_sell(data["entry"], data["current"]):
             log(f"🔻 Vente automatique simulée de {symbol} à perte (>10%)")
 
     log("✅ Analyse terminée. Reprise dans 5 min...\n")
 
-# --- Lancement ---
+# --- Lancement continu ---
 if __name__ == "__main__":
     Thread(target=lambda: app.run(host='0.0.0.0', port=port)).start()
     while True:
