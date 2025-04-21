@@ -5,6 +5,15 @@ from datetime import datetime
 import os
 from flask import Flask
 
+app = Flask(__name__)
+
+# Utilise le port dynamique de Render (ou 10000 si non défini)
+port = int(os.environ.get("PORT", 10000))
+
+# Lancer l'app Flask sur le port dynamique
+app.run(host="0.0.0.0", port=port)
+
+
 # Fonction pour envoyer un message Telegram
 def send_telegram(message):
     try:
